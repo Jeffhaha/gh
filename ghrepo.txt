@@ -1,2 +1,4 @@
 Github is an open source platform.
 Github version control has its advantage.
+Git is a distributed version control system.
+Git is free software.
